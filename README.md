@@ -1,4 +1,4 @@
-# Parkinsons-Disease-Prediction
+# Personal Loan Targeting - Classification
 This project showcases the comparison of basic ML techniques such as Logistic Regression, K- Nearest Neighbours and Naive Bayes to predict likelihood of a liability customer buying personal loans
 
 Industry: Banking
